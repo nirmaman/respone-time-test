@@ -1,0 +1,8 @@
+instruction:
+
+1. Extract files from zip(use "extract here" and not "extract files")
+2.Open vs
+3.In the terminal write "npm i". it install the node modules folder. (the folder node modules is to big to send).
+4.in the terminal write "node server.js"
+5. in this part, you shuold see "listening on port 3001..."
+6.copy this link and paste it in Chrom browser: http://localhost:3001/main
